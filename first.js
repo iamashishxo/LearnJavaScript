@@ -25,3 +25,7 @@ companiesName.splice(2, 1, "ola");
 companiesName.push("amazon");
 
 console.log(companiesName);
+
+let FullName = "ashish Manhas";
+
+console.log(`my name is ${FullName}`);
